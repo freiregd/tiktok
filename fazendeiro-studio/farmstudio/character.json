@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "name": "Fazendeiro virtual",
+  "identity": "Personagem fictício criado por inteligência artificial. Não representa uma pessoa real nem mantém relacionamentos reais com espectadores.",
+  "visual": "Mesmo homem adulto da imagem de referência fornecida pelo proprietário: boné bege de tecido sem logotipo, camiseta azul-marinho lisa, barba e bigode curtos escuros com fios grisalhos no queixo, sobrancelhas escuras, olhos castanhos, sorriso acolhedor e marcas de expressão naturais. Preservar formato do rosto, nariz, dentição e proporções da referência; não rejuvenescer nem embelezar artificialmente.",
+  "setting": "Fazenda brasileira, varanda de madeira, cerca e porteira ao fundo, pasto com neblina leve, luz dourada do amanhecer. Caneca de café simples como objeto recorrente.",
+  "voice": "Português brasileiro, voz masculina adulta calorosa, sotaque leve e consistente do interior de Minas Gerais, fala natural sem caricatura. Carismático, romântico com respeito, bem-humorado. Usar 'ocê' e 'uai' com moderação. Não clonar voz de pessoa real.",
+  "rules": ["Usar sempre a mesma imagem ou Character no Flow.", "Não trocar rosto, roupa-base, boné, idade aparente ou timbre entre vídeos.", "Carinho ficcional sem promessas de namoro real, exclusividade ou pedidos de dinheiro.", "Sem alegações factuais não verificadas, imitação de políticos ou propaganda segmentada por idade/gênero.", "Sem pressão para curtir/compartilhar, compra de seguidores ou comentários falsos."]
+}

@@ -1,0 +1,15 @@
+1
+00:00:00,720 --> 00:00:02,300
+Café forte eu sei fazer.
+
+2
+00:00:03,000 --> 00:00:04,400
+Difícil é tomar sozinho
+
+3
+00:00:04,400 --> 00:00:05,550
+quando a prosa é boa.
+
+4
+00:00:06,160 --> 00:00:07,500
+Puxa cadeira, uai!
